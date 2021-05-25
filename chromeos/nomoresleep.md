@@ -5,7 +5,9 @@ This can be caused by a faulty lid (for laptop Chromebooks), check if the connec
 
 => If there are loose hinges/connections, contact a repair center
 
-Press `Shift+Special Key+L"` ==> This should be a temporary fix
+Press `Shift+Special Key+L` ==> This should be a temporary fix
+
+*Note, special key is the Search Key for most Chromebooks*
 
 Otherwise:
 ```
