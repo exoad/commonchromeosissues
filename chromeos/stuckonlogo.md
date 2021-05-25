@@ -8,3 +8,8 @@
 2. Drain the battery and see the result if nothing changes, resort to a powerwash
 
 [...]
+
+### Avaliable Sources:
+[#1](https://www.reddit.com/r/chromeos/comments/aavcuz/chromebook_wont_start_stuck_on_chrome_logo/)
+[#2](https://www.reddit.com/r/Chromium/comments/9y79ra/anyone_try_the_chromefy_approach_to_getting/)
+[#3](https://support.google.com/chromebook/thread/927728/my-samsung-chromebook-stops-at-chrome-logo-on-white-screen-please-help-tried-click-mouse-no-use?hl=en)
