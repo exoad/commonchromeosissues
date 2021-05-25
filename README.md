@@ -23,6 +23,10 @@ If nothing works for you, here are some options:
 
 If your device is managed by an organization (school, company, etc.), it is best to contact them and ask for both their permissions and help.
 
+# Contribution and Commentations
+
+You can create an issue in the `Issues` tab and post your concern and commentary there.
+
 # Important Links & Resources
 
 *Note: these might not be all of the resources, but these are some*
