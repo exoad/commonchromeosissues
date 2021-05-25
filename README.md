@@ -19,6 +19,10 @@ If nothing works for you, here are some options:
 2. Ask for help on the Chromebook Help Website 
 3. Powerwash and/or reset the environment you are having trouble with
 
+# Organization Managed Device
+
+If your device is managed by an organization (school, company, etc.), it is best to contact them and ask for both their permissions and help.
+
 # Important Links & Resources
 
 *Note: these might not be all of the resources, but these are some*
