@@ -20,6 +20,9 @@ If nothing works for you, here are some options:
 3. Powerwash and/or reset the environment you are having trouble with
 
 # Important Links & Resources
+
+*Note: these might not be all of the resources, but these are some*
+
 [r/chromeos](https://www.reddit.com/r/chromeos/)
 
 [r/crostini](https://www.reddit.com/r/Crostini/)
@@ -37,3 +40,19 @@ If nothing works for you, here are some options:
 [Google Discord Server](https://discord.gg/google)
 
 [HP Customer Support - ChromeBooks](https://support.hp.com/us-en/products/laptops/chromebooks)
+
+[Samsung Customer SUpport - ChromeBooks](https://www.samsung.com/us/support/computing/chrome-device/)
+
+[Chromebook Forums](https://www.chromebookforum.com/)
+
+[AndroidCentral - Chromebooks](https://forums.androidcentral.com/chromebooks/)
+
+[XDA Developers - Chromebooks](https://forum.xda-developers.com/f/chromebooks.3915/)
+
+[Find Chromebook Manual](https://www.search-manual.com/286-chromebooks)
+
+[Dell Chromebooks](https://www.dell.com/support/kbdoc/en-us/000178390/dell-chrome-systems-guide)
+
+[Acer Customer Support](https://www.acer.com/ac/en/US/content/support)
+
+[..]
