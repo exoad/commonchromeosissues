@@ -12,4 +12,7 @@ This is a file that contains information that "can" work for most VMShell errors
 
 3. Then when "chronos@localhost" or "(termina)" pops up type: `lxc start termina`
 
+![image](https://github.com/exoad/commonchromeosissues/blob/49de2d15287a940d9fec8aa885eb7111ecd801cb/img/Screenshot%202021-05-24%2010.17.44%20PM.png)
+
+
 4. Finally: `lxc exec penguin -- /bin/bash`
