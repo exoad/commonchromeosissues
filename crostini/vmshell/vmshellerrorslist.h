@@ -1,5 +1,6 @@
 //Here is a list of "common" VMShell error numbers (not in order) and their meanings:
 
+enum class CrostiniResult {
   SUCCESS = 0,
   DBUS_ERROR = 1,
   UNPARSEABLE_RESPONSE = 2,
@@ -64,3 +65,4 @@
   UNKNOWN_STATE_TIMED_OUT = 61,
   NEED_REBOOT = 62,
   kMaxValue = NEED_REBOOT,
+};
