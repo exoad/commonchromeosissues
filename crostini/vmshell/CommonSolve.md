@@ -17,3 +17,5 @@ This is a file that contains information that "can" work for most VMShell errors
 
 
 4. Finally: `lxc exec penguin -- /bin/bash`
+
+# If you have tried everything and nothing works, consider powerwashing.
