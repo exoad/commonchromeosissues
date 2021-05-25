@@ -1,4 +1,6 @@
-# Description
+# Disappearing Cursor in Linux Beta
+
+### Description
 If your cursor for some reason in Linux (Beta) apps somehow disappeared paste the following command into your Linux terminal:
 
 ```
