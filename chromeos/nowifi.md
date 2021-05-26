@@ -21,3 +21,5 @@
 9.Try ethernet
 
 10.Powerwash your device
+
+11.Forget and readd the WiFi
