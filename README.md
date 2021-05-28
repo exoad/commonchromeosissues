@@ -1,6 +1,6 @@
 # Common Chromebook Issues [WORK IN PROGRESS]
 
-![Last Commit](https://img.shields.io/github/last-commit/exoad/commonchromeosissues?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/exoad/commonchromeosissues?style=for-the-badge) ![r/ChromeOS Discord](https://img.shields.io/discord/253908290105376768?style=for-the-badge)
 
 Common ChromeOS Issues. These can be ChromeOS itself or Crostini (Linux)
 
