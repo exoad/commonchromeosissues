@@ -10,7 +10,7 @@ __Try the following:__
 
 3. Perform a reintall of Linux
 
-4. Try to the run the program from the terminal
+4. Try to the run the program from Crosh
 
-5. Go to Crosh (CTRL+ALT+T): Type `vmc start termina`
+5. Reboot the linux environment in Crosh:  `vmc start termina` then `vmc stop termina`
 
