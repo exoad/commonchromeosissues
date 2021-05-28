@@ -1,0 +1,223 @@
+/src/aosp/external/libchrome
+/src/aosp/external/libutf
+/src/third_party/modp_b64
+/src/aosp/frameworks/ml
+/src/aosp/frameworks/native
+/src/aosp/frameworks/proto_logging bluetooth notdefault
+/src/aosp/hardware/interfaces/neuralnetworks
+/src/aosp/system/bt/bringup bluetooth notdefault
+/src/aosp/system/bt/upstream bluetooth notdefault
+/src/aosp/system/core/base
+/src/aosp/system/core/libbacktrace
+/src/aosp/system/core/libcutils
+/src/aosp/system/core/liblog
+/src/aosp/system/libsync
+/src/aosp/system/core/libutils
+/src/aosp/system/libbase
+/src/aosp/system/libfmq
+/src/aosp/system/libhidl
+/src/aosp/system/logging
+/src/aosp/system/update_engine
+/src/third_party/libapps
+/src/third_party/breakpad
+/src/chromium/src/buildtools minilayout labtools buildtools
+/src/chromium/src/third_party/Python-Markdown
+/src/chromium/src/tools/md_browser
+/src/chromium/depot_tools minilayout labtools buildtools firmware
+/chromite minilayout crosvm labtools sysmon buildtools chromeos-admin devserver firmware
+/infra/chromite-HEAD buildtools
+/src/config partner-config config
+/src/platform/container-guest-tools
+/docs crosvm
+/src/platform/graphyte
+/infra/build/drydock notdefault infra-tools
+/src/platform/empty-project minilayout firmware
+/infra/ci_results_archiver chromeos-admin
+/infra/go chromeos-admin
+/infra/lucifer
+/infra/proto
+/infra/recipes chromeos-admin
+/infra/suite_scheduler
+/infra/test_analyzer
+/infra/tnull
+/infra_virtualenv minilayout labtools sysmon buildtools chromeos-admin devserver firmware
+/manifest
+/src/overlays minilayout firmware
+/src/third_party/chromiumos-overlay minilayout labtools firmware
+/src/third_party/eclass-overlay minilayout labtools firmware
+/src/third_party/portage-stable minilayout labtools firmware
+/src/platform/assets
+/src/platform/audiotest
+/src/platform/bisect-kit
+/src/platform/bmpblk
+/src/platform/btsocket
+/src/platform/camera
+/src/platform/cbor
+/src/platform/cfm-device-monitor
+/src/platform/chameleon
+/src/platform/chromiumos-assets
+/src/platform/cobble
+/src/platform/crostestutils minilayout buildtools firmware
+/src/scripts minilayout labtools buildtools firmware
+/src/platform/crosvm crosvm
+/src/platform/depthcharge firmware
+/src/platform/dev minilayout buildtools devserver firmware
+/src/platform/drm-tests
+/src/platform/cr50 firmware
+/src/platform/ec firmware
+/src/platform/release-firmware/fpmcu-bloonchipper firmware
+/src/platform/release-firmware/fpmcu-dartmonkey firmware
+/src/platform/release-firmware/fpmcu-nami firmware
+/src/platform/release-firmware/fpmcu-nocturne firmware
+/src/platform/experimental
+/src/platform/factory
+/src/platform/factory_installer
+/src/platform/firmware firmware
+/src/platform/frecon
+/src/platform/gestures
+/src/platform/glbench-debian notdefault crostini
+/src/platform/glbench
+/src/platform/go-seccomp
+/src/platform/graphics
+/src/platform/initramfs
+/src/platform/inputcontrol
+/src/platform/jabra_vold
+/src/platform/libevdev
+/src/platform/libva-fake-driver
+/src/platform/lithium firmware
+/src/platform/microbenchmarks
+/src/platform/minigbm crosvm
+/src/platform/moblab moblab notdefault
+/src/platform/mosys
+/src/platform/mttools
+/src/platform/satlab notdefault satlab
+/src/platform/tast
+/src/platform/tast-tests
+/src/platform/touch_firmware_test firmware
+/src/platform/touch_updater
+/src/platform/touchpad-tests
+/src/third_party/tpm firmware
+/src/platform/tpm_lite
+/src/platform/tremplin
+/src/platform/uboot-env
+/src/platform/usi-test
+/src/platform/vboot_reference buildtools firmware
+/src/platform/vkbench
+/src/platform/vpd
+/src/platform/xolabs-common-core notdefault xolabs
+/src/platform/xorg-conf
+/src/platform2 crosvm
+/src/project_public partner-config
+/src/repohooks minilayout crosvm labtools buildtools firmware
+/src/third_party/Wi-FiTestSuite-Linux-DUT
+/src/third_party/adhd crosvm
+/src/third_party/apitrace-debian notdefault crostini
+/src/third_party/apitrace
+/src/third_party/arm-trusted-firmware
+/src/third_party/atrusctl
+/src/third_party/autotest/files labtools buildtools devserver
+/src/third_party/aver-updater
+/src/third_party/bluez/current
+/src/third_party/bluez/next
+/src/third_party/bluez/upstream
+/src/third_party/bootstub firmware
+/src/third_party/cbootimage firmware
+/src/third_party/coreboot firmware
+/src/third_party/cros-adapta
+/src/third_party/cryptoc firmware
+/src/third_party/cups
+/src/third_party/daisydog
+/src/third_party/edk2 firmware
+/src/third_party/fsp/cml/edk2/branch1 firmware
+/src/third_party/fsp/cnl/edk2 firmware
+/src/third_party/fsp/glk/edk2 firmware
+/src/third_party/em100 firmware
+/src/third_party/fastrpc
+/src/third_party/flashmap firmware
+/src/third_party/flashrom firmware
+/src/third_party/fwupd
+/src/third_party/hdctools labtools
+/src/third_party/wpa_supplicant-2.9
+/src/third_party/wpa_supplicant
+/src/third_party/huddly-updater
+/src/third_party/igt-gpu-tools
+/src/third_party/intel-wifi-fw-dump
+/src/third_party/kernel/upstream
+/src/third_party/kernel/v3.18
+/src/third_party/kernel/v4.14-gw
+/src/third_party/kernel/v4.14
+/src/third_party/kernel/v4.19-ht
+/src/third_party/kernel/v4.19-manatee
+/src/third_party/kernel/v4.19
+/src/third_party/kernel/v4.4
+/src/third_party/kernel/v5.10-arcvm
+/src/third_party/kernel/v5.10
+/src/third_party/kernel/v5.4-arcvm
+/src/third_party/kernel/v5.4-manatee
+/src/third_party/kernel/v5.4
+/src/third_party/kernel/next notdefault kernel-next
+/src/third_party/khronos
+/src/third_party/labpack/files labtools
+/src/third_party/lexmark-fax-pnh
+/src/third_party/libcamera
+/src/third_party/libdrm-debian notdefault crostini
+/src/third_party/libdrm
+/src/third_party/libiio
+/src/third_party/libmbim
+/src/third_party/libqmi
+/src/third_party/libqrtr
+/src/third_party/libqrtr-glib
+/src/third_party/libsigrok
+/src/third_party/sigrok-cli
+/src/third_party/libsigrokdecode
+/src/third_party/libtextclassifier
+/src/third_party/libv4lplugins
+/src/third_party/linux-firmware
+/src/third_party/logitech-updater
+/src/third_party/marvell
+/src/third_party/mesa-amd
+/src/third_party/mesa-debian
+/src/third_party/mesa-freedreno
+/src/third_party/mesa-img
+/src/third_party/mesa-iris
+/src/third_party/mesa
+/src/third_party/mimo-updater
+/src/third_party/mmc-utils
+/src/third_party/modemmanager-next
+/src/third_party/novatek-tcon-fw-update-tool
+/src/third_party/optofidelity_TPPT notdefault touch-firmware-tests
+/src/third_party/optofidelity_TPPT_analysis notdefault touch-firmware-tests
+/src/third_party/optofidelity_chrome_touch_client notdefault touch-firmware-tests
+/src/third_party/optofidelity_chromeos_touch_sender notdefault touch-firmware-tests
+/src/third_party/optofidelity_protocols notdefault touch-firmware-tests
+/src/third_party/poly-updater
+/src/third_party/portage_tool
+/src/third_party/qemu
+/src/third_party/rootdev
+/src/third_party/rust-vmm/vhost crosvm
+/src/third_party/rust_crates bluetooth notdefault
+/src/third_party/seabios firmware
+/src/third_party/shellcheck
+/src/third_party/sis-updater
+/src/third_party/sound-open-firmware
+/src/third_party/sysbios firmware
+/src/third_party/systemd
+/src/third_party/tlsdate
+/src/third_party/toolchain-utils minilayout
+/src/third_party/tpm2 crosvm firmware
+/src/third_party/trousers
+/src/third_party/u-boot/files
+/src/third_party/upstart
+/src/third_party/virglrenderer crosvm
+/src/third_party/virtual-usb-printer
+/src/third_party/webrtc-apm
+/src/third_party/zephyr/main/v2.5 firmware zephyr
+/src/third_party/zephyr/cmsis/v2.5 firmware zephyr
+/src/third_party/zephyr/hal_stm32/v2.5 firmware zephyr
+/src/third_party/xfstests
+/src/aosp/external/bsdiff
+/src/aosp/external/minijail crosvm
+/src/aosp/external/perfetto notdefault
+/src/aosp/external/puffin
+/src/aosp/system/keymaster
+/src/weave/libweave
