@@ -4,7 +4,7 @@
 
 Common ChromeOS Issues. These can be ChromeOS itself or Crostini (Linux)
 
-Reminder this is just an **archive** of common issues faced by ChromeOS users either in the present or in the past.
+Reminder this is just an **archive** of common issues faced by ChromeOS users either in the present or in the past. (Since I don't use a ChromeBook that much, much of the listed issues are either from the internet or from past experiences)
 
 # Where?
 Check the folders above for `md` files that will help you regarding your issues
