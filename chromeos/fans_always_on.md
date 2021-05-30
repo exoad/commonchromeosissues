@@ -12,3 +12,4 @@
 
 5. Clean your laptop and elevate your laptop so it can get consistent airflow
 
+6. [IF YOU HAVE DEVELOPER MODE ON] Use `ectool` in CROSH (CTRL+ALT+T) to set fanspeed. `sudo ectool fanduty <parameters>` 
