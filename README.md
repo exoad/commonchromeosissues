@@ -1,4 +1,4 @@
-# Common Chromebook Issues [WORK IN PROGRESS]https://exoad.github.io/commonchromeosissues
+# Common Chromebook Issues [WORK IN PROGRESS]
 
 ![Last Commit](https://img.shields.io/github/last-commit/exoad/commonchromeosissues?style=for-the-badge) ![r/ChromeOS Discord](https://img.shields.io/discord/253908290105376768?color=%23eb9e34&style=for-the-badge) ![r/ChromeOS](https://img.shields.io/reddit/subreddit-subscribers/chromeos?style=for-the-badge) ![Issues](https://img.shields.io/github/issues/exoad/commonchromeosissues?style=for-the-badge) ![r/Crostini](https://img.shields.io/reddit/subreddit-subscribers/crostini?color=%234287f5&style=for-the-badge)
 
